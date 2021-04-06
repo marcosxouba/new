@@ -1,5 +1,5 @@
 const help = (p, date, user, wame) => {
-return `┏━ ℘ąɬơ ცơɬ ۷5 ━┓
+return `┏━ ACTIVOS 24/7 ━┓
 ║                                                           
 ║ _*🕐 Fecha: ${date} 🕐*_
 ║ _*👥 Usuario: ${user} 👥*_
@@ -8,14 +8,14 @@ return `┏━ ℘ąɬơ ცơɬ ۷5 ━┓
 ┣══════ Redes ══════┫
 ║
 ║
-║ _Grupo 1 wsp:_
-║ _*🪀 https://bit.ly/3dr6p2P 🪀*_
+║ _Grupo Wa:_
+║ _*https://chat.whatsapp.com/GU4BYGtVxxIJwrWQAxj3ZE*_
 ║
-║ _Grupo 2 wsp:_
-║ _*🪀 https://bit.ly/3wiL04v 🪀*_
+║ _Grupo Telegram_
+║ _*https://t.me/grupoactivos*_
 ║
 ║ _📹 𝐘𝐨𝐮𝐭𝐮𝐛𝐞:_
-║ _*🌐 http://bit.ly/mrpato-yt 🌐*_
+║ _*NO DISPONIBLE*_
 ║
 ┗════════════════════════┛ 
     
